@@ -6,7 +6,7 @@ Design of a personal financial analysis web app using only Python.
 
 Functions
 
-- Collect and store user's income
+- Collect and store user's revenue
 - Collect and store user's expenses
 - Dashboards for visual analysis on the data provided
 - Statements page to analysis the data more deeply
