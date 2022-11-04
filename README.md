@@ -1,6 +1,6 @@
 # Interactive_Budget_Dashboard
 
-My Budget
+"My Budget - Interactive Dashboard"
 
 Design of a personal financial analysis web app using only Python.
 
