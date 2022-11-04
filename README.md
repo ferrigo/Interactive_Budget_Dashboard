@@ -13,8 +13,6 @@ Functions
 
 Technologies Used
 
-Using only PYTHON and the libraries:
-
 - Dash
 - Dash-Core-Components
 - Dash HTML
